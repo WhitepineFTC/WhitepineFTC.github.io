@@ -1,5 +1,4 @@
 ---
-layout: default
 title: White Pine FTC Team
 ---
 
