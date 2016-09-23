@@ -1,5 +1,6 @@
 ---
 title: White Pine FTC Team
+layout: default
 ---
 
 #Welcome!  
