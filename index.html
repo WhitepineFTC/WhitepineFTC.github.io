@@ -3,5 +3,6 @@ title: White Pine FTC Team
 layout: default
 ---
 
-{% include index.md %}
+{% capture myInclude %}{% include index.md %}{% endcapture %}
+{{ myInclude | markdownify }}
 
