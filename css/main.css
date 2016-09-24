@@ -2,6 +2,7 @@ nav ul,
 footer ul {
   margin: 0;
   padding: 0;
+  text-align: center;
   list-style: none; }
 nav li,
 footer li {
@@ -9,3 +10,6 @@ footer li {
 nav li:not(:first-child):before,
 footer li:not(:first-child):before {
   content: " : "; }
+
+footer ul {
+  font-size: 75%; }
