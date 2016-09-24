@@ -24,9 +24,9 @@ footer ul {
   padding: 10px;
   background-color: #f0f0ff; }
   .container h1 {
-    text-align: center;
-    text-color: #1010ff; }
+    text-align: center; }
   .container h1,
   .container h2,
   .container h3 {
-    font-family: "Open Sans", sans-serif; }
+    font-family: "Open Sans", sans-serif;
+    color: #1010ff; }
