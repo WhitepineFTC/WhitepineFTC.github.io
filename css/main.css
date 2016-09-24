@@ -1,8 +1,11 @@
-nav ul {
+nav ul,
+footer ul {
   margin: 0;
   padding: 0;
   list-style: none; }
-nav li {
+nav li,
+footer li {
   display: inline-block; }
-nav li:not(:first-child):before {
+nav li:not(:first-child):before,
+footer li:not(:first-child):before {
   content: " : "; }
