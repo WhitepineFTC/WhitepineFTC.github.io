@@ -29,4 +29,5 @@ footer ul {
   .container h2,
   .container h3 {
     font-family: "Open Sans", sans-serif;
-    color: #1010ff; }
+    color: #000011;
+    font-weight: bold; }
