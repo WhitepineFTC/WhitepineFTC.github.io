@@ -1,4 +1,5 @@
 # White Pine Middle School
+
 ## FIRST Tech Challenge Team
 
 ### Team number
