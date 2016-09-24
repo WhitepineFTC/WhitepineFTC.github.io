@@ -29,7 +29,7 @@ footer ul {
   .container h2,
   .container h3 {
     font-family: "Open Sans", sans-serif;
-    color: #000011;
+    color: #0000ee;
     font-weight: bold; }
-  .container img {
+  .container .centered-image {
     text-align: center; }
