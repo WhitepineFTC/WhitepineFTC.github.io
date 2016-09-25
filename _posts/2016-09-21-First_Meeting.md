@@ -13,7 +13,7 @@ The team experimented a bit with _Processing_.  We started with an example
 program, and after some editing and experimenting, this is what we had at the
 end of the meeting:
 
-``` Processing
+```Java
 void setup() {
   size(500, 500);
   background(random(255),random(255),random(255));
