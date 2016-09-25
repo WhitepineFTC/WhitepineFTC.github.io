@@ -1,3 +1,4 @@
 name: White Pine FTC Team
 markdown: kramdown
-syntax_highlighter: rouge
+kramdown:
+    syntax_highlighter: rouge
