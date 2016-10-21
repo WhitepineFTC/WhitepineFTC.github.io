@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Second Tournament
-date: 2016-10-06
+date: 2016-10-21
 ---
 
 ### Wednesday Meeting Recap
@@ -19,7 +19,7 @@ reflect the new configuration.  Together we then wrote a simple opmode that
 should spin motor 1 when touch sensor 1 is pressed, and motor 2 when touch
 sensor 2 is pressed:
 
-```Java
+```java
 package com.qualcomm.ftcrobotcontroller.opmodes;
 
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
