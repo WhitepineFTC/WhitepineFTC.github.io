@@ -26,7 +26,7 @@ learning about some ideas that will be useful for the autonomous period.  We
 work with processing, and on Friday we made the following program, that
 implements a simple __state machine__:
 
-```Java
+```java
 /**
  * Setup positin variables for x and y coordinates
  * Also setup "saved" versions to remember where did the last state change
